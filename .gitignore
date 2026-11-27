@@ -1,0 +1,7 @@
+/data/
+/src/
+/tools/
+/workspace/
+/config/
+.env
+.env.*
